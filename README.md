@@ -25,7 +25,7 @@ Use Case - The owner of this business would like to record their customer’s co
 3. <b>Query Sales by Customer</b> - Owner requires a list of sale details by customer.
 
 <h2>Scheduling Record</h2>
-Use Case - The owner of this business would like to record their customer’s contact information and a list of the pet’s that they own. Recording pet species, breed, gender and birth year will aid them in preparing for my customer visits.
+Use Case - The owner of this business would like to record their appointments and be able to see their appointments for a single day on a map. They would like to be able to create a sale from an appointment, so they’ll need the same information on the appointment, as a sale.
 
 1. <b>Create customer information</b> - New customer requests service.
 2. <b>Create Sales</b> - Customer has requested service and the service is complete.
