@@ -6,9 +6,9 @@ Scenarios we have covered so far:
 <h2>Transaction Record</h2>
 Use Case - The owner of the business would like to record their financial transactions so that they can quickly see how much money they’ve made and what they owe the government in HST. For their purposes, their expenses subtracted from their income. Also, they’d like to be able to query their expenses by Supplier so they can see where they are spending their money.
 
-1. Creating an income transaction
-2. Creating an expense transaction
-3. Query Financial transaction
+1. <b>Creating an income transaction</b>
+2. <b>Creating an expense transaction</b>
+3. <b>Query Financial transaction</b>
 
 <h2>Inventory Record</h2>
 Use Case - The owner of the business would like to record the products that they use for easy information retrieval. They want to be able to quickly show my customers the ingredients in the products. 
